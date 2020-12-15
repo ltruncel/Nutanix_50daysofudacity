@@ -1,6 +1,6 @@
 # Nutanix_50daysofudacity
 
-### Hi LauraT here. Between July and October of 2020 I was accepted into phase 1 of the Nutanix Hybrid Cloud scholarship program. Here's a record of my daily coding/challenge during that time. In October, I was awarded a full scholarship to learn hybrid cloud engineering and will earn a Hybrid Cloud Engineer Nanodegree (expected Jan 2021). Below is a badge of for those accepted into phase 2 of the scholarship.
+### Hi LauraT here. Between July and October of 2020 I was accepted into phase 1 of the Nutanix Hybrid Cloud scholarship program. Here's a record of my daily coding/challenge during that time. The official challenge was 30 days but I did more than 50.  In October, I was awarded a full scholarship to learn hybrid cloud engineering and will earn a Hybrid Cloud Engineer Nanodegree (expected Jan 2021). Below is a badge of for those accepted into phase 2 of the scholarship.
 
 
 ![Nutanix Scholarship](assets/Nutanix_Scholarship_LauraT.jpg)
